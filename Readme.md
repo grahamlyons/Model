@@ -10,7 +10,7 @@ Example:
 
         protected $_fields = array('title', 'author');
 
-        $validators = array(
+        protected $_validators = array(
             'title' => array(
                         'Alnum',
                         'presence' => 'required'
