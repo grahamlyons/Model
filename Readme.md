@@ -1,4 +1,4 @@
-# Abstract Model Class
+# Abstract Model Class [![Build Status](https://secure.travis-ci.org/grahamlyons/Model.png)](http://travis-ci.org/grahamlyons/Model)
 
 Abstract PHP class for models, using the [Zend Filter Input](http://framework.zend.com/manual/en/zend.filter.input.html, "Zend Filter Input") class from the Zend Framework.
 
